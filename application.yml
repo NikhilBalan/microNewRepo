@@ -4,7 +4,7 @@ server:
   port: 8084
 spring: 
   application: 
-    name: MicroServiceDemo
+    name: Micro-Service-Demo
 test: 
   count: 2255
   list: "nikhil,sachin,joseph"
