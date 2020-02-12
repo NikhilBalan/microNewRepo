@@ -1,6 +1,6 @@
 test: 
-  count: 6666
+  count: 7777
   list: "nikhil,sachin,joseph"
   map: "{name:'Nikhil',age:'26',id:'2013699999'}"
-  value: hello cloud micro
+  value: hello cloud micro updated
 
